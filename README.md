@@ -1,2 +1,4 @@
 # Supermarkt-Product-Swapper
 Final project for university course "Designing Interactive Systems"
+
+Dit project beschrijft een slimme applicatie die consumenten helpt om snel en eenvoudig het beste product te kiezen op basis van hun persoonlijke voorkeuren. Door producten te scannen, zowel thuis als in de winkel, krijgt de gebruiker direct inzicht in waar het exacte product of passende alternatieven te koop zijn, inclusief vergelijking op prijs, duurzaamheid (zoals fair trade-labels), voedingswaarden en houdbaarheid. In de winkel toont de app bovendien of er binnen dezelfde winkel - of bij andere winkels - een beter alternatief beschikbaar is, met duidelijke highlights van verbeterpunten. Zo vermindert de applicatie onzekerheid, bespaart ze tijd bij het vergelijken van producten en maakt ze verborgen of moeilijk leesbare productinformatie toegankelijk. Het resultaat is een bewustere consument die met één klik nieuwe, beter passende producten ontdekt.
